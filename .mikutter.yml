@@ -1,0 +1,9 @@
+---
+:slug: :mikutter_header_client
+:description: ヘッダー部分にクライアント名を表示します。
+:depends:
+  :mikutter: "5.1"
+  plugin:
+    - gtk3
+:version: "1.0.0"
+:author: ncaq
